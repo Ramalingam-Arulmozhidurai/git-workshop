@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+src/new_package/__init__.py
+src/new_package/simple_functions.py
+src/new_package.egg-info/PKG-INFO
+src/new_package.egg-info/SOURCES.txt
+src/new_package.egg-info/dependency_links.txt
+src/new_package.egg-info/top_level.txt
